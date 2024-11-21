@@ -23,6 +23,6 @@ There are `N` philosophers sitting around a table. Each philosopher thinks and o
 
 ### Clone the Repository:
 ```bash
-git [clone https://github.com/yourusername/philosophers.git](https://github.com/haghouli/Philosophers.git)
+git https://github.com/haghouli/Philosophers.git
 cd philosophers
 make
